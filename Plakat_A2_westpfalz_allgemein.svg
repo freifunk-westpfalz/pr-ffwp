@@ -15,7 +15,10 @@
    id="svg24222"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Plakat_A2_westpfalz - Kopie.svg">
+   sodipodi:docname="Plakat_A2_westpfalz_allgemein.svg"
+   inkscape:export-filename="C:\Users\Benjamin\clones\pr-ffwp\Plakat_A2_westpfalz_allgemein.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs24224">
     <linearGradient
@@ -286,7 +289,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.37898413"
      inkscape:cx="744.09448"
-     inkscape:cy="438.25115"
+     inkscape:cy="1036.6157"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -339,7 +342,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -485,7 +488,7 @@
          x="737.88159"
          y="303.62881"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oswald;-inkscape-font-specification:Oswald"
-         id="tspan4234">Jeder Freifunker stellt  einen separaten</tspan><tspan
+         id="tspan4234">Jeder Freifunker stellt einen separaten</tspan><tspan
          sodipodi:role="line"
          x="737.88159"
          y="348.62881"
@@ -1027,7 +1030,7 @@
        d="m 85.562455,-242.54308 0,11.62546 -39.697528,0 0,45.21425 -52.9515412,2.06188 0,103.404346 0,85.2013828 1502.3622142,0 0,-202.4898788 -486.07,-9.69695 -8.3356,-5.10558 -31.38091,0 -20.10478,12.76544 -33.34246,-0.95464 -1.47907,-30.32164 -13.72366,-1.595 -13.73422,2.23094 0,30.32163 -32.85647,-0.95482 -43.14658,1.90946 -705.69309,-6.15271 0,-38.75374" />
     <g
        id="g4891"
-       transform="matrix(2.9836158,0,0,-2.9836158,-828.82326,82.363051)"
+       transform="matrix(2.9836158,0,0,-2.9836158,-828.82326,64.363051)"
        style="fill:#dc0067;fill-opacity:1">
       <g
          transform="matrix(0.1,0,0,0.1,4.0720213,18.051824)"
@@ -1107,7 +1110,7 @@
          d="m 391.16403,194.32413 c 0.0532,0.0141 0.10471,0.0258 0.13546,0.0233 0.0133,-0.001 0.0283,-0.003 0.0424,-0.004 0,0 -0.17785,-0.0191 -0.17785,-0.0191 z m -5.33847,-25.21645 c -0.17368,-0.56509 -0.13046,-1.21662 -0.17368,-1.56398 -0.0432,-0.34736 -0.13047,-0.13047 -0.13047,-1.08614 0,-0.95567 -0.17368,-2.91023 -0.39057,-3.90912 -0.21773,-0.99971 -0.21773,-1.60718 -0.21773,-2.25953 0,-0.65153 -0.69473,-3.4745 -0.69473,-3.4745 l -0.0864,-1.26065 -0.0864,-0.4338 -0.044,1.99777 -0.26094,0.782 c 0,0 -0.78199,6.73291 -0.78199,7.16753 0,0.43463 -0.21689,1.21661 -0.21689,1.21661 l 0.17368,0.5651 0.13047,2.17145 0.2169,0.99972 c 0,0 0.26094,2.47643 0.43462,4.69193 0.17368,2.2155 0.73878,5.29941 0.73878,5.29941 l 0.17285,0.86925 c 0,0 0.47867,-1.52076 0.86924,-5.95176 0.34072,-3.85676 -0.19861,-2.78558 0.17368,-3.99638 0.17368,-0.56508 0.34737,-1.25982 0.17368,-1.82491 z m 8.55785,30.58233 -0.17369,0.17452 c 0,0 0.044,0.0432 0.21772,0.26095 0.17369,0.21688 -0.21772,0.30331 -0.26093,0.52021 -0.0441,0.21772 -0.8252,2.73737 -0.8252,2.73737 0,0 0.0864,0.5651 -0.0864,0.95568 -0.17452,0.39057 -0.0873,1.78087 -0.1313,2.65012 -0.0432,0.86842 -0.60747,1.38946 -1.17257,1.69445 -0.56509,0.30332 -1.29806,0.52271 -1.78087,0.47783 -2.05345,-0.19695 -1.96121,-0.25762 -0.69556,0.34737 0,0 0.0872,0.69473 0.2601,1.17257 0.17451,0.47783 -0.0424,0.26011 -0.17285,0.78198 -0.13047,0.52188 -0.044,0.52188 0.0432,1.12936 0.0873,0.60914 -0.0432,0.86925 -0.26093,1.13019 -0.2169,0.25928 -0.26012,0.0864 -0.26012,0.86841 0,0.78116 -0.39058,1.65124 -0.78198,3.64892 -0.39141,1.99844 -2.60691,4.17073 -3.08392,4.4743 -0.47866,0.30407 -1.13018,0.39116 -1.60801,0.39116 -0.47785,0 -0.91247,-0.30407 -0.91247,-0.30407 0,0 -0.65068,-0.13023 -1.08531,-0.17377 -0.43462,-0.0436 -0.99972,-0.69515 -1.52077,-1.3037 -0.52105,-0.60764 -1.2166,-2.43265 -1.4335,-3.7794 -0.2169,-1.34625 -0.13047,-1.82409 -0.47783,-3.21355 -0.34737,-1.39112 -0.65152,-1.9986 -0.65152,-1.9986 l 0.2601,-1.04293 1.49085,-0.91162 c 0,0 0.36149,-0.54267 0.36149,-0.54267 0,0 -1.20663,-0.60331 -2.54707,-0.84846 -1.24569,-0.2277 -1.3903,-0.5651 -1.73767,-2.51965 -0.34736,-1.95456 -0.52187,-5.38584 -0.82603,-7.90632 -0.30332,-2.51882 1.56481,-5.2562 1.82575,-5.56035 0.16288,-0.1903 0.60499,-0.18864 0.9133,-0.16121 0.14293,-2.39085 0.20027,-0.24017 -0.002,-2.35844 -0.0864,-0.91246 -0.2169,-1.95456 -0.2169,-1.95456 l -0.0872,-0.69556 c 0,0 -0.26011,-0.82437 -0.43462,-1.47672 -0.17285,-0.65152 0,-2.17228 0,-2.17228 0,0 0.044,-2.17229 0.044,-2.65012 v -1.17174 c 0,0 0.39058,-5.21381 0.69473,-7.47253 0.30415,-2.25871 0.43463,-5.47392 0.43463,-5.47392 l -0.0432,-0.34737 0.0864,-0.34737 -0.13047,-0.43462 c 0,0 0.044,-0.43378 0,-0.78198 -0.0432,-0.34737 -0.26011,-1.47756 -0.26011,-1.47756 0,0 0.13047,-1.04209 0.0432,-2.77975 -0.0872,-1.73767 0.43463,-5.0393 0.65153,-6.42877 0.21772,-1.3903 0.82603,-4.17088 0.99971,-5.29941 0.17369,-1.13019 0.12964,-0.78282 0.12964,-0.78282 l 0.30415,-0.2169 c 0,0 0.17618,-0.93821 -0.0108,-1.23323 -0.29917,-0.47035 -1.42188,-1.05206 -1.42188,-1.05206 l -0.12964,-1.08615 c 0,0 2.9094,0.11219 3.47367,0.15706 0.56508,0.0424 1.22908,-0.0914 1.88059,0.86426 0.65152,0.95651 0.37894,1.56814 0.37894,1.56814 l -0.13046,0.52105 0.0873,0.30415 0.30415,-0.30415 c 0,0 0.19196,-1.00887 0.82437,-2.12825 0.56509,-0.99972 1.08697,-0.73877 1.08697,-0.73877 l 0.86841,0.0864 0.30415,0.26095 c 0.26926,0.84597 0.23935,0.83766 0.82521,1.91133 0.52189,0.95568 0.0432,0.82604 0.0432,0.82604 l 0.82603,0.39058 0.95568,4.30053 0.17368,1.86813 0.30416,2.60607 0.2601,1.43351 c 0,0 0.13048,2.12907 0.13048,2.12907 0,0 0.43462,2.08503 0.56508,3.43128 0.13048,1.34708 -0.13046,1.26065 -0.17368,1.91135 -0.044,0.65235 0,0.7396 -0.17368,1.91217 -0.17369,1.1734 0.2169,2.38918 0.2169,2.38918 l 0.43379,4.25731 c 0,0 0.7396,4.90883 1.1734,6.47281 0.43462,1.56314 0.13047,1.91134 0.13047,3.30164 0,1.38947 0.0441,1.73766 0.0441,1.73766 0,0 -0.47868,2.25871 -0.9133,3.8659 -0.43462,1.60719 -0.477,1.60719 -0.52105,2.38919 -0.0416,0.75289 0.0764,1.4202 0.0848,1.4684 0.5975,-0.059 1.34958,-0.29501 1.34958,-0.29501 0,0 0.34653,0 0.73794,0.39058 0.39058,0.39141 0.65151,2.30276 0.73794,2.82381 0.0873,0.52105 0.1313,1.82491 0.1313,1.82491 l 0.17369,0.26094 c 0,0 -0.13047,0.34653 -0.13047,0.34653 h -10e-4 z" />
     </g>
     <g
-       transform="matrix(0.32910015,0,0,-0.32910015,18.086399,109.87925)"
+       transform="matrix(0.34734503,0,0,-0.34734503,11.686369,118.92999)"
        id="g3208">
       <path
          d="m 468.82,1016.3 3386.3,177.47 -1.05,19.97 -3386.297,-177.46"
@@ -1146,7 +1149,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(3.2910015,0,0,-3.2910015,18.086399,99.348047)"
+       transform="matrix(3.4734503,0,0,-3.4734503,11.686369,107.81495)"
        id="g174">
       <text
          transform="scale(1,-1)"
@@ -1162,7 +1165,7 @@
            id="tspan4025"
            sodipodi:role="line"><tspan
    id="tspan4042"
-   style="font-size:10.39999961999999900px;fill:#dc0067;fill-opacity:1;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn">Privatpersonen</tspan>,</tspan><tspan
+   style="font-size:10.39999962px;fill:#dc0067;fill-opacity:1;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn">Privatpersonen</tspan>,</tspan><tspan
            style="font-size:10.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
            id="tspan4027"
            y="-101.84545"
@@ -1187,82 +1190,82 @@
     <text
        sodipodi:linespacing="125%"
        id="text4035"
-       y="-279.38953"
-       x="727.72717"
-       style="font-size:34.22641373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+       y="-291.91934"
+       x="760.6687"
+       style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
        xml:space="preserve"><tspan
-         style="font-size:34.22641373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-         y="-279.38953"
-         x="727.72717"
+         style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+         y="-291.91934"
+         x="760.6687"
          id="tspan4037"
          sodipodi:role="line"><tspan
    id="tspan4044"
-   style="font-size:34.22641372999999700px;fill:#dc0067;fill-opacity:1;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn">Unternehmer</tspan> und</tspan><tspan
+   style="font-size:36.12388229px;fill:#dc0067;fill-opacity:1;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn">Unternehmer</tspan> und</tspan><tspan
          id="tspan4039"
-         style="font-size:34.22641373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-         y="-236.60651"
-         x="727.72717"
+         style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+         y="-246.76448"
+         x="760.6687"
          sodipodi:role="line"><tspan
    id="tspan4046"
-   style="font-size:34.22641372999999700px;fill:#dc0067;fill-opacity:1;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn">Gastronomen</tspan>, die</tspan><tspan
+   style="font-size:36.12388229px;fill:#dc0067;fill-opacity:1;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn">Gastronomen</tspan>, die</tspan><tspan
          id="tspan4041"
-         style="font-size:34.22641373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-         y="-193.82349"
-         x="727.72717"
+         style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+         y="-201.60963"
+         x="760.6687"
          sodipodi:role="line">Freifunk-Hotspots</tspan><tspan
          id="tspan4043"
-         style="font-size:34.22641373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-         y="-151.04047"
-         x="727.72717"
+         style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+         y="-156.45479"
+         x="760.6687"
          sodipodi:role="line">zur Verfügung</tspan><tspan
          id="tspan4045"
-         style="font-size:34.22641373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-         y="-108.25745"
-         x="727.72717"
+         style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+         y="-111.29993"
+         x="760.6687"
          sodipodi:role="line">stellen.</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4035-1"
-       y="-296.77109"
-       x="1148.4501"
-       style="font-size:34.22641373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+       y="-310.26453"
+       x="1204.7159"
+       style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
        xml:space="preserve"><tspan
          id="tspan4045-8"
-         style="font-size:34.22641372999999700px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#dc0067;fill-opacity:1;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-         y="-296.77109"
-         x="1152.1267"
+         style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#dc0067;fill-opacity:1;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+         y="-310.26453"
+         x="1208.5964"
          sodipodi:role="line">Öffentliche </tspan><tspan
-         style="font-size:34.22641373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-         y="-253.98807"
-         x="1152.1267"
+         style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+         y="-265.10965"
+         x="1208.5964"
          sodipodi:role="line"
          id="tspan4074"><tspan
    style="fill:#dc0067;fill-opacity:1"
    id="tspan4852">Institutionen</tspan>, <tspan
    style="fill:#dc0067;fill-opacity:1"
    id="tspan4854">Kirchen</tspan>, </tspan><tspan
-         style="font-size:34.22641373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-         y="-211.20505"
-         x="1152.1267"
+         style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+         y="-219.9548"
+         x="1208.5964"
          sodipodi:role="line"
          id="tspan4076"><tspan
    style="fill:#dc0067;fill-opacity:1"
    id="tspan4856">Firmen</tspan> und <tspan
    style="fill:#dc0067;fill-opacity:1"
    id="tspan4858">Vereine</tspan>, </tspan><tspan
-         style="font-size:34.22641373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-         y="-168.42203"
-         x="1152.1267"
+         style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+         y="-174.79997"
+         x="1208.5964"
          sodipodi:role="line"
          id="tspan4078">die sich beteiligen </tspan><tspan
-         style="font-size:34.22641373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-         y="-125.63901"
-         x="1152.1267"
+         style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+         y="-129.6451"
+         x="1208.5964"
          sodipodi:role="line"
          id="tspan4080">und z.B. Dächer für </tspan><tspan
-         style="font-size:34.22641373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-         y="-82.855988"
-         x="1148.4501"
+         style="font-size:36.12388229px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
+         y="-84.490257"
+         x="1204.7159"
          sodipodi:role="line"
          id="tspan4082">Freifunk bereitstellen.</tspan></text>
     <text
