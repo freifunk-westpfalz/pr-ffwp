@@ -12,17 +12,17 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3300"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    width="526.17499"
    height="372.04999"
    xml:space="preserve"
-   sodipodi:docname="Rueckseite_Mod.svg"
+   sodipodi:docname="Flyer_A6_Rueckseite.svg"
    inkscape:export-filename="C:\Users\benjamin\Dropbox\freifunk\flyer\bielefeld/Rueckseite_600dpi_Mod.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600"><metadata
      id="metadata3306"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs3304"><clipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath3316"><path
@@ -214,14 +214,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="1002"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
      id="namedview3302"
      showgrid="false"
      inkscape:zoom="1.7417014"
      inkscape:cx="255.52849"
-     inkscape:cy="148.99625"
-     inkscape:window-x="1912"
+     inkscape:cy="190.71256"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g3308"
@@ -323,6 +323,7 @@
      sodipodi:role="line"
      style="font-size:11px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Oswald;-inkscape-font-specification:Oswald-Regular">Was ist Freifunk?</tspan></text>
 
+
 <text
    y="-246.75499"
    x="24.410198"
@@ -332,7 +333,7 @@
      x="24.410198"
      sodipodi:role="line"
      style="font-size:9.60000038px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-     id="tspan3959">Freifunk baut deutschlandweit nicht-kommerzielle Datennetze mit WLAN-</tspan><tspan
+     id="tspan3959">Freifunk baut deutschlandweit nichtkommerzielle Datennetze mit WLAN-</tspan><tspan
      y="-234.75499"
      x="24.410198"
      sodipodi:role="line"
@@ -343,6 +344,7 @@
      sodipodi:role="line"
      style="font-size:9.60000038px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
      id="tspan4866">Freifunk ist ein freies, unabhängiges und dezentral organisiertes Netzwerk.</tspan></text>
+
 
 </g><g
        id="g4466"
@@ -365,6 +367,7 @@
 
 
 
+
 <text
    y="-185.755"
    x="35.610199"
@@ -374,7 +377,7 @@
      x="35.610199"
      sodipodi:role="line"
      style="font-size:9.60000038px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-     id="tspan3919">Freifunk Westpfalz funktioniert nur durch den Einsatz von Dir! </tspan><tspan
+     id="tspan3919">Freifunk Westpfalz funktioniert durch Deinen Einsatz! </tspan><tspan
      y="-173.755"
      x="35.610199"
      sodipodi:role="line"
@@ -384,12 +387,13 @@
      x="35.610199"
      sodipodi:role="line"
      style="font-size:9.60000038px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
-     id="tspan4874">wächst. Stelle einfach einen Knoten bei Dir zu Hause auf und bilde ein Teil dieses Bürger-Netzes. </tspan><tspan
+     id="tspan4874">wächst. Stelle einfach einen Knoten bei Dir zu Hause auf und werde so ein Teil dieses Bürger-Netzes. </tspan><tspan
      id="tspan3515"
      y="-149.755"
      x="35.610199"
      sodipodi:role="line"
      style="font-size:9.60000038px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn" /></text>
+
 
 
 
@@ -411,6 +415,7 @@
      id="tspan3480"
      sodipodi:role="line"
      style="font-size:11px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Oswald;-inkscape-font-specification:Oswald-Regular">Muss ich Angst vor Abmahnungen und Urheberrechtsverletzungen haben?</tspan></text>
+
 
 
 
@@ -441,6 +446,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
@@ -453,6 +459,7 @@
      id="tspan4346"
      x="43.635494"
      y="190.04405" /></text>
+
 
 
 
@@ -475,6 +482,7 @@
      sodipodi:role="line"
      style="font-size:11px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Oswald;-inkscape-font-specification:Oswald-Regular">Sind offene Netzwerke sicher für den Internetnutzer?</tspan></text>
 
+
 <text
    y="-53.355019"
    x="24.410198"
@@ -496,6 +504,7 @@
      style="font-size:9.60000038px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto Cn;-inkscape-font-specification:Roboto Cn"
      id="tspan4898">Verschlüsselung (z.B. HTTPS, VPN).</tspan></text>
 
+
 </g><g
        id="g4497"><text
    y="-266.94424"
@@ -507,6 +516,7 @@
      y="-266.94424"
      sodipodi:role="line"
      id="tspan238">eine lokale Initiative von</tspan></text>
+
 
 
 
@@ -532,4 +542,4 @@
            y="326.69205"
            style="font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Roboto" /></flowRegion><flowPara
          id="flowPara4532"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald">Weitere Informationen und Kontaktmöglichkeiten auf https://freifunk-westpfalz.de/</flowPara></flowRoot></g></svg>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald">Weitere Informationen und Kontaktmöglichkeiten auf westpfalz.freifunk.net</flowPara></flowRoot></g></svg>
