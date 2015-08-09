@@ -6,4 +6,5 @@ to start
 to change background image: 
 - open index.html  
 - replace all occurences of "header1600.png" with "header1280.png" or "header1920.png".
+
 Presentation is ment to be viewed in browser's fullscreen mode. 
