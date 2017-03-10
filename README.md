@@ -1,27 +1,50 @@
 pr-ffwp
 =======
 
-Repo for all PR material
+Repo for all PR material of Freifunk Westpfalz.
 
-Fonts
-=====
 
-Name: <b>DroidSans</b><br/>
-Author: Steve Matteson<br/>
-License: Apache License, version 2.0<br/>
-URL: https://www.google.com/fonts/specimen/Droid+Sans
+directory structure 
+-------------------
 
-Name: <b>Oswald</b><br/>
-Author: Vernon Adams<br/>
-License: SIL Open Font License, 1.1<br/>
-URL: https://www.google.com/fonts/specimen/Oswald
+- **Flyer_8seiter**: the documents, that we changed for the current flyer. A link to the original material is included.
+- **praesentationen**: the slides for our first information event.
+- **Printready**: PDFs for the current flyer and sticker (Aufkleber)
 
-Name: <b>Roboto</b><br/>
-Author: Christian Robertson<br/>
-License: Apache License, version 2.0<br/>
-URL: https://www.google.com/fonts/specimen/Roboto
 
-Name: <b>Cooper-Hewitt</b><br/>
-Author: Chester Jenkins<br/>
-License: SIL Open Font License<br/>
-URL: http://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/
+documents
+---------
+
+##### FF_neutral_freies_WLAN_aufkleber.eps
+
+The current vertical sticker. It was printed in DIN A 7 at flyeralarm. We used the outdoor material and are quite pleased with the results.
+
+
+##### RouterAufkleber_klein.sla
+
+This is a small Sticker that fits on WR841-Routers (and everywhere else of course).
+It is supposed to be printed at  85 x 55 mm.
+
+
+##### Plakat_A2
+
+- Plakat_A2_westpfalz_allgemein.svg
+- Plakat_A2_westpfalz.svg
+
+This poster works pretty well in DIN A 3 as well. 
+
+
+##### other stuff
+
+- Flyer_A6_Rueckseite.svg
+- Flyer_A6_Vorderseite.svg
+
+Small single page flyers. We never printed them in larger amounts.
+
+
+- Knotenbeipackzettel.svg
+
+We never used those.
+
+
+
